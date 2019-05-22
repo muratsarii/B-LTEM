@@ -1,0 +1,15 @@
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\bin\Debug\bote_kurultayi.exe.config
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\bin\Debug\bote_kurultayi.exe
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\bin\Debug\bote_kurultayi.pdb
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\bote_kurultayi.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\bote_kurultayi.frmkurultay.resources
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\bote_kurultayi.Properties.Resources.resources
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\bote_kurultayi.csproj.GenerateResource.Cache
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\bote_kurultayi.exe
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\bote_kurultayi.pdb
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\bote_kurultayi.csproj.ResolveComReference.cache
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\bote_kurultayi\bote_kurultayi\obj\Debug\bote_kurultayi.csproj.CoreCompileInputs.cache

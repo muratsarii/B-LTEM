@@ -1,0 +1,3 @@
+Uygulamayý çalýþtýrmak için aþaðýdaki yolu izleyiniz.
+BÝLTEM\1_Proje\BÝLTEM\Debug\setup.exe
+kurunuz.
